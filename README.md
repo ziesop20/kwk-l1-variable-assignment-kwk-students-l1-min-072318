@@ -27,7 +27,7 @@ Finished in 0.00075 seconds (files took 0.0839 seconds to load)
 1 example, 1 failure
 ```
 
-To solve this test failure, create a local variable `greeting` in the `variable.rb` file. Set `greeting` equal to the string `"Hello World"`. Run `learn` to see if you did this correctly.
+Remember that test failures are normal for unsolved labs! This is how we will be progressing through our material and objectives, writing solutions and solving unsolved concerns until each test gets satisfied. To solve the test failure for this lab, create a local variable `greeting` in the `variable.rb` file. Set `greeting` equal to the string `"Hello World"`. Run `learn` to see if you did this correctly.
 
 ## Resources
 * [Learn to Program](https://pine.fm/LearnToProgram/chap_03.html)
